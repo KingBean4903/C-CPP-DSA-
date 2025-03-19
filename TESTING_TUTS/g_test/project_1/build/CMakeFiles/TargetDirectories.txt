@@ -1,0 +1,4 @@
+/home/baimungi/Documents/C_STUDIES/INTERVIEW_PREP/TESTING_TUTS/g_test/project_1/build/CMakeFiles/rebuild_cache.dir
+/home/baimungi/Documents/C_STUDIES/INTERVIEW_PREP/TESTING_TUTS/g_test/project_1/build/CMakeFiles/edit_cache.dir
+/home/baimungi/Documents/C_STUDIES/INTERVIEW_PREP/TESTING_TUTS/g_test/project_1/build/CMakeFiles/test.dir
+/home/baimungi/Documents/C_STUDIES/INTERVIEW_PREP/TESTING_TUTS/g_test/project_1/build/CMakeFiles/hello_test.dir
